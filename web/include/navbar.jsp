@@ -32,6 +32,9 @@
            <li>
               <a href="welcome.jsp">Welcome</a>
            </li>
+           <li>
+              <a href="mycart.jsp">My Cart</a>
+           </li>
            <li style="float: right; display: <%= status %>;">
                <table>
                    <tr>

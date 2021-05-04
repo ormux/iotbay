@@ -1,4 +1,4 @@
-
+    
 <%@ page import = "model.Customer" %>
 <jsp:include page="include/header.jsp"/>
 <%
